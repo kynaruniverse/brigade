@@ -62,3 +62,4 @@ Push to `main` → GitHub Actions builds → Deploys to Vercel automatically.
 
 Pro is stored in `localStorage` after server-verified Stripe payment.
 No account required. No sync. Fully offline once activated.
+
