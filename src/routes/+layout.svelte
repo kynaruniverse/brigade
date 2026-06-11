@@ -10,11 +10,11 @@
 </script>
 
 <div id="app">
-  <main class="app-content" role="main">
+  <main class="app-content">
     <slot />
   </main>
 
-  <nav class="bottom-nav" role="navigation" aria-label="Main navigation">
+  <nav class="bottom-nav" aria-label="Main navigation">
     {#each navItems as item}
       <button
         class="nav-item"
